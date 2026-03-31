@@ -1,0 +1,41 @@
+
+E-COMMERCE SALES ANALYSIS REPORT — 2024
+
+
+EXECUTIVE SUMMARY
+
+The store processed 125 orders across 2024, generating a total net
+revenue of ₦2,480,245 from 52 unique customers.
+The average order value was ₦19,842.
+
+KEY FINDINGS
+
+1. BEST PERFORMING MONTH:
+   Dec recorded the highest monthly revenue, suggesting a seasonal
+   spike (possibly driven by festive shopping or promotions).
+
+2. TOP PRODUCT CATEGORY:
+   Electronics was the highest-revenue category, indicating strong customer
+   demand for these products. Marketing efforts should continue to focus here.
+
+3. LEADING REGION:
+   Lagos generated the most orders, confirming it as the primary
+   customer base. Logistics and inventory should prioritize this region.
+
+4. PREFERRED PAYMENT METHOD:
+   Card was the most used payment method (92
+   orders), suggesting customers prefer this channel. Ensuring a smooth
+   checkout experience for this method is critical.
+
+5. DISCOUNTS:
+   Total discounts given amounted to ₦184,355. While discounts
+   drive volume, the impact on profit margins should be monitored carefully.
+
+RECOMMENDATIONS
+
+• Stock up on Electronics and high-demand items before peak months.
+• Run targeted promotions in Q4 to capitalise on festive shopping trends.
+• Expand delivery reach in underserved regions (Sokoto, Maiduguri, Akure).
+• Consider loyalty rewards for repeat customers (e.g. Amara Okafor, Olu Bankole).
+• Streamline the Card checkout process to reduce drop-offs.
+
